@@ -1,3 +1,7 @@
+<p align="center">
+  <strong>Fullstack Developer</strong> · Node.js · Express · React
+</p>
+
 # Ferdi
 
 I build things that actually work.

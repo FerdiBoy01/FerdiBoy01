@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Ferdi
 
-<!--
-**FerdiBoy01/FerdiBoy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fullstack Web Developer**  
+🚀 Fokus di pengembangan aplikasi web modern & scalable  
+🎓 Mahasiswa Sistem Informasi  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+Saya adalah **Fullstack Developer** dengan fokus utama di **Node.js ecosystem**.  
+Terbiasa membangun aplikasi dari **backend sampai frontend**, termasuk autentikasi, REST API, dan dashboard admin.
+
+Saat ini saya aktif mengembangkan:
+- Sistem informasi berbasis web
+- Aplikasi backend dengan Node.js & Express
+- Frontend modern menggunakan React & Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
+- Node.js
+- Express.js
+- REST API
+- JWT Authentication
+- MySQL
+
+### 🔹 Frontend
+- React.js
+- Tailwind CSS
+- HTML, CSS, JavaScript
+
+### 🔹 Mobile & Others
+- Android Studio (basic)
+- PHP Laravel (basic)
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+- 🔐 Sistem autentikasi (JWT, passkey)
+- 🏗 Backend architecture yang rapi & aman
+- 📊 Dashboard admin & user management
+- 🌐 Fullstack web application
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: frdiboy.01@gmail.com
+- 💼 GitHub: https://github.com/FerdiBoy01
+
+---
+
+⭐ *Always learning, always building.*

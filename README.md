@@ -36,13 +36,6 @@ Fokus pada backend logic yang rapi dan frontend yang simpel tapi fungsional.
 
 ---
 
-## Current Focus
-- Backend architecture
-- API security & structure
-- Building real-world projects
-
----
-
 ## Fun Fact
 - Lebih sering mikir logic dulu daripada tampilan 😄  
 - Kalau bug susah ketemu, biasanya ketemu pas lagi nggak nyari  
@@ -52,3 +45,4 @@ Fokus pada backend logic yang rapi dan frontend yang simpel tapi fungsional.
 
 ## Activity
 ![Snake animation](https://raw.githubusercontent.com/FerdiBoy01/FerdiBoy01/output/github-contribution-grid-snake.svg)
+

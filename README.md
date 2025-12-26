@@ -50,6 +50,8 @@ Saat ini saya aktif mengembangkan:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/USERNAME_KAMU/USERNAME_KAMU/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -60,3 +62,5 @@ Saat ini saya aktif mengembangkan:
 ---
 
 ⭐ *Always learning, always building.*
+
+

@@ -1,52 +1,51 @@
+<h2 align="center">Ferdi</h2>
+
 <p align="center">
-  <strong>Fullstack Developer</strong> · Node.js · Express · React
+  Fullstack Developer · Node.js · Express · React
 </p>
 
-# Ferdi
+---
 
-I build things that actually work.
+I build systems that make sense.  
+Fokus pada backend logic yang rapi dan frontend yang simpel tapi fungsional.
 
-Seorang Fullstack Developer yang fokus pada backend logic yang rapi  
-dan frontend yang simpel tapi fungsional.
+---
 
 ## Tech & Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="52" />
 </p>
 
+---
+
+## What I Do
+- Build RESTful API with Node.js & Express
+- Develop fullstack web applications
+- Design clean database & system flow
+- Focus on maintainable and readable code
 
 ---
 
-## Stack I Use
-
-**Backend**
-- Node.js • Express
-- MySQL • REST API
-
-**Frontend**
-- React
-- Tailwind CSS
-
-**Also familiar with**
-- Git & GitHub
-- Android Studio (basic)
-- Laravel / PHP (basic)
+## Current Focus
+- Backend architecture
+- API security & structure
+- Building real-world projects
 
 ---
 
-## Principle
-- Clean code over clever code  
-- Logic first, UI follows  
-- Build > talk
+## Fun Fact
+- Lebih sering mikir logic dulu daripada tampilan 😄  
+- Kalau bug susah ketemu, biasanya ketemu pas lagi nggak nyari  
+- Percaya kalau **clean code itu bentuk tanggung jawab**
 
 ---
 
